@@ -1,4 +1,5 @@
-#ShipStation node client
+ShipStation node client
+============================
 
 A small node module that helps integrate your application with shipstation.
 There are still several API endpoints with shipstation that are not implemented.
@@ -6,7 +7,7 @@ Feel free to fork and make pull requests, or add issues as you please.
 
 ## Install
 
-```npm install node-shipstation```
+```npm install shipstation```
 
 ## Usage
 
